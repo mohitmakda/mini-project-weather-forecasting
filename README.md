@@ -1,2 +1,3 @@
 # mini-project-weather-forecasting 
-by mini project
+by mohit makda 
+and rohit mishra
